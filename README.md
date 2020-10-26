@@ -5,6 +5,8 @@ Having completed a B.Sc. in Chemistry and continued with a  PhD. in Computationa
 
 I am a person who has a great desire to learn  and loves being part of a team. I take pride in evaluating processes and looking for easier ways to achieve the end result. I consider myself a 'out of the box' thinker!
 
+* I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.
+
 <!--
 **EllaQuimica/EllaQuimica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
