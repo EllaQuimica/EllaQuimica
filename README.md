@@ -26,17 +26,17 @@ Here are some ideas to get you started:
 
 ### Tech skills
 <p align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" width="30" height="30"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" alt="php" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="git" width="30" height="30"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="html5" width="30" height="30"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css" width="30" height="30"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="mysql" width="30" height="30"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="mongodb" width="30" height="30"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sass.svg" alt="sass" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/laravel.svg" alt="Laravel" width="30" height="30"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg" alt="Django" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flask.svg" alt="Flask" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" width="30" height="30" style="fill: grey;"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" alt="php" width="30" height="30" style="fill: grey;"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="git" width="30" height="30" style="fill: grey;"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="html5" width="30" height="30" style="fill: grey;"/>  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css" width="30" height="30" style="fill: grey;"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="mysql" width="30" height="30" style="fill: grey;"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="mongodb" width="30" height="30" style="fill: grey;"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sass.svg" alt="sass" width="30" height="30" style="fill: grey;"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/laravel.svg" alt="Laravel" width="30" height="30" style="fill: grey;"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg" alt="Django" width="30" height="30" style="fill: grey;"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flask.svg" alt="Flask" width="30" height="30" style="fill: grey;"/>
 </p>
 
 
