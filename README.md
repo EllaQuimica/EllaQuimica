@@ -1,5 +1,5 @@
 ## Hi, I'm Johanna Sanchez 👩🏻‍💻 
-### Junior Fullstack Developer and Chemistry
+### Fullstack Developer and Chemistry
 
 Having completed a B.Sc. in Chemistry and continued with a  PhD. in Computational Chemistry,  I fell in love with programming and decided to migrate to that area. First I learned self-taught and then a training in a 6 month full-time bootcamp. I love to learn new stuff everyday, I'm no stranger to challenge and I really know what it takes to strive for optimal results.
 
